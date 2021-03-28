@@ -108,8 +108,8 @@ input[type="text"]:focus {
   justify-content: space-between;
   align-items: center;
 }
-.main__task-list-item > *,
-.main__completed-task-list-item > * {
+.main__task-list-item,
+.main__completed-task-list-item {
   vertical-align: middle;
 }
 .main__task-list-item-input[type="checkbox"],
